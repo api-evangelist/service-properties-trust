@@ -1,0 +1,65 @@
+name: Service Properties Trust
+description: |
+  Service Properties Trust (NASDAQ: SVC) is a real estate investment trust
+  (REIT) with approximately $9.9 billion invested across two asset categories:
+  service-focused retail net lease properties and hotels. As of March 31, 2026
+  SVC owned 761 net lease properties (over 13.6 million sq ft) and 93 hotels
+  (over 21,000 guest rooms) throughout the United States. The company is
+  externally managed by The RMR Group (NASDAQ: RMR). SVC does not operate a
+  public developer program and exposes no public APIs, OpenAPI specifications,
+  SDKs, or webhooks; investor-facing endpoints are limited to SEC filings,
+  press releases, email alerts, and end-of-day stock quotes.
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-blank.jpg
+url: https://www.svcreit.com
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.20"
+tags:
+- Real Estate
+- REIT
+- Hospitality
+- Hotels
+- Net Lease
+- Retail
+- Travel
+- Lodging
+- Investor Relations
+- Fortune 1000
+apis: []
+common:
+- type: Homepage
+  url: https://www.svcreit.com
+- type: AboutUs
+  url: https://www.svcreit.com/about/default.aspx
+- type: InvestorRelations
+  url: https://www.svcreit.com/investors/default.aspx
+- type: SECFilings
+  url: https://www.svcreit.com/investors/financial-information/sec-filings/default.aspx
+- type: PressReleases
+  url: https://www.svcreit.com/news/default.aspx
+- type: Sustainability
+  url: https://www.svcreit.com/about/Sustainability/default.aspx
+- type: ContactUs
+  url: https://www.svcreit.com/investors/investor-resources/contact-us/default.aspx
+- type: EmailAlerts
+  url: https://www.svcreit.com/investors/investor-resources/email-alerts/default.aspx
+- type: StockInformation
+  url: https://www.svcreit.com/investors/stock-information/default.aspx
+- type: Governance
+  url: https://www.svcreit.com/investors/governance/default.aspx
+- type: Manager
+  url: https://www.rmrgroup.com
+maintainers:
+- FN: Kin Lane
+  email: info@apievangelist.com
+x-type: company
+x-status: active
+x-pipeline-status: complete
+x-pipeline-last-run: 2026-05-23
+x-has-public-api: false
+x-api-count: 0
+x-notes: |
+  REIT with no public developer APIs. Pipeline produced apis.yml + README only —
+  no openapi/, capabilities/, schemas, plans, rate-limits, or finops artifacts
+  were generated because there is no API surface to model. Re-run the pipeline
+  if SVC or its manager RMR Group publishes a developer portal.
