@@ -27,7 +27,7 @@ tags:
 - Fortune 1000
 apis: []
 common:
-- type: Homepage
+- type: Website
   url: https://www.svcreit.com
 - type: AboutUs
   url: https://www.svcreit.com/about/default.aspx
