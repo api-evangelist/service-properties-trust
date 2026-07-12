@@ -27,6 +27,8 @@ tags:
 - Fortune 1000
 apis: []
 common:
+- type: DomainSecurity
+  url: security/service-properties-trust-domain-security.yml
 - type: Website
   url: https://www.svcreit.com
 - type: AboutUs
