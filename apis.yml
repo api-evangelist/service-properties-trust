@@ -9,6 +9,17 @@ description: |
   public developer program and exposes no public APIs, OpenAPI specifications,
   SDKs, or webhooks; investor-facing endpoints are limited to SEC filings,
   press releases, email alerts, and end-of-day stock quotes.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-blank.jpg
 url: https://www.svcreit.com
 created: 2026-05-23
