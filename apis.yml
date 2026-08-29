@@ -9,6 +9,17 @@ description: |
   public developer program and exposes no public APIs, OpenAPI specifications,
   SDKs, or webhooks; investor-facing endpoints are limited to SEC filings,
   press releases, email alerts, and end-of-day stock quotes.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
