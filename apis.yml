@@ -34,7 +34,7 @@ accessModel:
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-blank.jpg
 url: https://www.svcreit.com
 created: 2026-05-23
-modified: 2026-05-23
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
 - Real Estate
@@ -61,6 +61,8 @@ tags_raw:
 - Real-Estate
 apis: []
 common:
+- url: https://www.svcreit.com/rss/events-and-presentations
+  type: BlogRSS
 - type: DomainSecurity
   url: security/service-properties-trust-domain-security.yml
 - type: Website
