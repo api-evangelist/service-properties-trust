@@ -1,0 +1,7 @@
+---
+title: "Service Properties Trust Second Quarter 2024 Conference Call"
+url: "https://www.svcreit.com/investors/events-and-presentations/module-holder/events-and-presentations/07-08-24"
+date: "2024-08-07"
+feed_url: "https://www.svcreit.com/rss/events-and-presentations"
+---
+
